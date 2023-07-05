@@ -1,0 +1,13 @@
+#theme{
+   float: right;
+}
+#Moon{
+   margin-left: 220px;
+}
+body{
+   background-image: url(./imgage/place-way.jpg);
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+}
+
+
